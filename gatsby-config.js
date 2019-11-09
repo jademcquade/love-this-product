@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Love This Product Blog`,
-    author: `Jordan McQuade`,
+    author: `Jordan`,
     description: `A blog where I review things that make me happy and may make others happy too.`,
     siteUrl: `https://lovethisproduct.net/`,
     social: {
