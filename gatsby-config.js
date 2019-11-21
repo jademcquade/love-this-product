@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Love This Product`,
+    title: `Love This Product Blog`,
     author: `Jordan`,
-    description: `A blog where I review things that make me happy and may make others happy too.`,
+    description: `This is a blog where I review products or services that make me happy and I hope will give happiness to others too.`,
     siteUrl: `https://lovethisproduct.net/`,
     social: {
       twitter: ``,
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Love This Product`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,

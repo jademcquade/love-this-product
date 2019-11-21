@@ -56,9 +56,9 @@ const Bio = () => {
       <p>
         Written by <strong>{author}</strong> who lives and works in the city of Glasgow. I love music, keeping fit, technology and home comforts.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
+        {/* <a href={`https://twitter.com/${social.twitter}`}>
           Follow me on Twitter.
-        </a>
+        </a> */}
       </p>
     </div>
   )
