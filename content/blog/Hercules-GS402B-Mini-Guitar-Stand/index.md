@@ -29,7 +29,7 @@ The below images show my guitar standing tall and proud and only the feet and lo
 ![Guitar body close up](./closeup_guitar.jpg)
 ![Guitar body rear](./body_back.jpg)
 
-I’ve been using this stand for over 10 months now and my guitar has taken pride of place in my living room. I'm so pleased with this stand that I also bought the Hercules GS401BB Acoustic Guitar Stand for my acoustic guitar.
+I’ve been using this stand for over 10 months now and my guitar has taken pride of place in my living room. I'm so pleased with this stand that I also bought the [Hercules GS401BB Acoustic Guitar Stand](https://amzn.to/2D9uuJY) for my acoustic guitar.
 
 The Hercules GS402B Mini Guitar Stand and Hercules GS401BB Acoustic Guitar Stand will both last me for many years to come due to their superior build quality; if I purchase another guitar in future then I'll also be adding another Hercules guitar stand to my order.
 
