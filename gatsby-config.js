@@ -61,7 +61,7 @@ module.exports = {
         short_name: `Love This Product`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#6b6b6b`,
         display: `minimal-ui`,
         icon: `content/assets/logo.png`,
       },
